@@ -1,1 +1,1 @@
-# Recognify
+# Recognify.
